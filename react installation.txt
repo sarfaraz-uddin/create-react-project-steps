@@ -1,0 +1,16 @@
+//BEst Practise
+
+npm create vite@latest //or intead of latest the version name
+enter y 
+give a project name 
+then select react
+then select u want to do typescript or javascript
+then go into folder using cd
+npm install or npm i //npm i helps to install all third party libraries
+code . and booyah! //react project created
+then to run the project run the command "npm run dev"
+
+//Simple Practise
+npm create-react-app projectname --use-npm //this will work globally
+npx create-react-app projectname //this will not work globally
+npm start //this will run the code in the browser
